@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Product>
+
+    @{
+    ViewData["Title"] = "Products";
+    }
+
+    <h1>Products</h1>
+
+    @foreach (var product in Model)
+    {
+    <div class="product-item">
+        <img src="@product.ProductImage" alt="@product.ProductName" />
+        <h2>@product.ProductName</h2>
+        <p>@product.ProductPrice</p>
+        <a href="@Url.Action(" ProductDetails", "Product" , new { id=product.ProductId })">Details</a>
+    </div>
+    }

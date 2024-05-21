@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Personal project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA22130-C2FB-4464-AB47-B0A8FAFB4BE8}|Personal project.csproj|d:\\project\\personal project\\authentication\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DEA22130-C2FB-4464-AB47-B0A8FAFB4BE8}|Personal project.csproj|solutionrelative:authentication\\signup.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA22130-C2FB-4464-AB47-B0A8FAFB4BE8}|Personal project.csproj|d:\\project\\personal project\\authentication\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA22130-C2FB-4464-AB47-B0A8FAFB4BE8}|Personal project.csproj|solutionrelative:authentication\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEA22130-C2FB-4464-AB47-B0A8FAFB4BE8}|Personal project.csproj|d:\\project\\personal project\\authentication\\signup.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEA22130-C2FB-4464-AB47-B0A8FAFB4BE8}|Personal project.csproj|solutionrelative:authentication\\signup.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUp.aspx.designer.cs",
+              "DocumentMoniker": "D:\\Project\\Personal project\\Authentication\\SignUp.aspx.designer.cs",
+              "RelativeDocumentMoniker": "Authentication\\SignUp.aspx.designer.cs",
+              "ToolTip": "D:\\Project\\Personal project\\Authentication\\SignUp.aspx.designer.cs",
+              "RelativeToolTip": "Authentication\\SignUp.aspx.designer.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAkwDAAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:24:29.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.aspx.cs",
+              "DocumentMoniker": "D:\\Project\\Personal project\\Authentication\\SignUp.aspx.cs",
+              "RelativeDocumentMoniker": "Authentication\\SignUp.aspx.cs",
+              "ToolTip": "D:\\Project\\Personal project\\Authentication\\SignUp.aspx.cs",
+              "RelativeToolTip": "Authentication\\SignUp.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAkwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:24:00.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.aspx",
+              "DocumentMoniker": "D:\\Project\\Personal project\\Authentication\\SignUp.aspx",
+              "RelativeDocumentMoniker": "Authentication\\SignUp.aspx",
+              "ToolTip": "D:\\Project\\Personal project\\Authentication\\SignUp.aspx",
+              "RelativeToolTip": "Authentication\\SignUp.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-21T09:23:37.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
